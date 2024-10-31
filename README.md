@@ -16,7 +16,6 @@ Create two snapshots that illustrates the robot/prototype:
 
 ![Exploaded view of the robot](./output/1exploded.PNG)
 
-**Deliverables:** SolidWorks files including assembly and partfiles in `./solidworks/` directory. `./output/1assembled.PNG` and `./output/1exploded.PNG` snapshots.
 
 ## 2) 3D-print
 
@@ -27,16 +26,13 @@ Create two snapshots that illustrates the robot/prototype:
 Make a table of 3D-printer material used, infill and layer hight for all your parts. 
 If you use the same setting for everything, use one row.
 
-| Part  | Material        | Quantity | Infill   | Layer hight
-| ----- | --------------- | -------- | -------- | ------------
-| part1 | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 3  | 20 % | .15 mm      
+|    Part    | Material        | Infill   | Layer hight |
+| ---------- | --------------- | -------- |------------|
+| everything | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 20 % | .16 mm      
 
-**Deliverables:** Image of the physical prototype as `./output/2physical_prototype.jpg` and table with 3D-print instructions.
 
 ## 3) Bill of materials
 
-Create a table with the most important components for your setup. 
-
 | Item | Description      | Quantity 
 | ---- | ---------------- | -------- 
-| 1    | [Dynamixel AX12](https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/) | 3       
+| 1    | [Dynamixel AX12](https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/) | 6       
