@@ -28,7 +28,8 @@ If you use the same setting for everything, use one row.
 
 |    Part    | Material        | Infill   | Layer hight |
 | ---------- | --------------- | -------- |------------|
-| everything | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 20 % | .16 mm      
+| legs | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 20 % | .16 mm  
+| body/head | [PolyMaker PLA](https://docs.rs-online.com/b4bb/A700000006921793.pdf) | 5 % | .20mm          
 
 
 ## 3) Bill of materials
